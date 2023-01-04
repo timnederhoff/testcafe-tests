@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "testcafe": "^1.6.0"
+    "testcafe": "^1.20.1"
   },
   "scripts": {
     "e2e": "testcafe chrome app/e2e/*.e2e-spec.ts"
